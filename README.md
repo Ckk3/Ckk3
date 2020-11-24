@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **gustavo.mota@acad.ifma.edu.br**
 
-- ⚡ Fun fact **I have a dog 🐕**
+- ⚡ Fun fact: **I have a dog 🐕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
