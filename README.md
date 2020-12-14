@@ -20,4 +20,4 @@
 
 
 
-made with [GitHub profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+made with [GitHub profile Readme Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
