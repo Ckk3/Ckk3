@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Gustavo!</h1>
 <h3 align="center">A computer science student from Brazil</h3>
 
-- 🌱 I’m currently learning **AI**, **HTML** and **CSS**
+- 🌱 I’m currently learning **Data Science**, **HTML** and **CSS**
 
 - 📫 How to reach me **gustavo.mota@acad.ifma.edu.br**
 
