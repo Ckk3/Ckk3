@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science**, **HTML** and **CSS**
 
-- 📫 How to reach me **gustavo.mota@acad.ifma.edu.br**
+- 📫 How to reach me **contato.gustavomota@gmail.com**
 
 - ⚡ Fun fact: **I have two dogs 🐕🐕**
 
