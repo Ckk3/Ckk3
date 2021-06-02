@@ -26,6 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ckk3&show_icons=true&theme=tokyonight&locale=en" alt="ckk3" /></p>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 made with [GitHub profile Readme Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
