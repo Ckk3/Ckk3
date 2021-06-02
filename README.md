@@ -29,5 +29,4 @@
 ![Snake animation](https://github.com/ckk3/ckk3/blob/output/github-contribution-grid-snake.svg)
 
 made with [GitHub profile Readme Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-
 snake game by [Rafaella Ballerini](https://github.com/rafaballerini/rafaballerini)
