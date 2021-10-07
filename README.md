@@ -11,7 +11,7 @@
 
 <h3 align="left">See my services:</h3>
 <p align="left">
-<a href="https://www.fiverr.com/ckgameplay" target="blank"><img align="center" src="https://github.com/Ckk3/Ckk3/blob/main/icons/fiverr%20icon.png?raw=true" alt="ckgameplay" height="30" width="35" /></a>
+<a href="https://www.fiverr.com/gustavom0ta" target="blank"><img align="center" src="https://github.com/Ckk3/Ckk3/blob/main/icons/fiverr%20icon.png?raw=true" alt="ckgameplay" height="30" width="35" /></a>
 <a href="https://www.vintepila.com.br/user-profile/NjI0MzEwNjczMDA=/" target="blank"><img align="center" src="https://github.com/Ckk3/Ckk3/blob/main/icons/vintepila%20icon.png?raw=true" alt="Luis G." height="30" width="35" /></a>
 </p>
 
