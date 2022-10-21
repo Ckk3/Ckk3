@@ -13,8 +13,7 @@
 <p align="left">
 <a href="https://www.fiverr.com/gustavom0ta" target="blank"><img align="center" src="https://github.com/Ckk3/Ckk3/blob/main/icons/fiverr%20icon.png?raw=true" alt="ckgameplay" height="30" width="35" /></a>
 <a href="https://www.99freelas.com.br/user/luisgustavomota" target="blank"><img align="center" src="https://github.com/Ckk3/Ckk3/blob/f88c4913969ccdcb41ec3c764d0a2254aded5343/icons/99freela.jpg" alt="Luis G." height="30" width="35" /></a>
-</p>
-<a href="https://www.workana.com/freelancer/3044f947afc7c1d6ed82ea946d9ac018" target="blank"><img align="center" src="https://github.com/Ckk3/Ckk3/blob/477573281393841b0aae00511c5d23add28d52e9/icons/workana.png" alt="Luis Gustavo" height="30" width="35" /></a>
+<a href="https://www.workana.com/freelancer/3044f947afc7c1d6ed82ea946d9ac018" target="blank"><img align="center" src="https://github.com/Ckk3/Ckk3/blob/477573281393841b0aae00511c5d23add28d52e9/icons/workana.png" alt="Luis Gustavo" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
