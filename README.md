@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luis Gustavo!</h1>
 <h3 align="center">Python Programer Jr from Brazil</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🔭 I’m currently working with **Django and Python Solutions for Web**
+
+- 🌱 I’m currently learning **Django and AWS**
 
 - 📫 How to reach me **contato.gustavomota@gmail.com**
 
