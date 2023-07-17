@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Gustavo!</h1>
-<h3 align="center">Python Programer Jr from Brazil</h3>
+<h3 align="center">Python Programer from Brazil</h3>
 
 - 🔭 I’m currently working with **Django and Python Solutions for Web**
 
