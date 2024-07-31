@@ -6,6 +6,4 @@
 
 - 📫 How to reach me **contato.gustavomota@gmail.com**
 
-- 💞 Main language: **Python**
-
 - 🗺 Personal Website: https://ckk3.dev
